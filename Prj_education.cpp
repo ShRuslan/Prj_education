@@ -10,6 +10,6 @@
 #include <stdlib.h>
 
 int main(void) {
-	puts("Try  to work with Git.");
+	puts("Try  to work with Git...");
 	return EXIT_SUCCESS;
 }
