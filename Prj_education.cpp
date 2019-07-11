@@ -13,5 +13,6 @@ int main(void) {
 	puts("Try  to work with Git...");
 	puts("iss53");
 	puts("master after iss53");
+	puts("testing_1");
 	return EXIT_SUCCESS;
 }
