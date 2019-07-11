@@ -11,5 +11,7 @@
 
 int main(void) {
 	puts("Try  to work with Git...");
+
+	puts("master after iss53");
 	return EXIT_SUCCESS;
 }
